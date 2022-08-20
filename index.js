@@ -1,19 +1,15 @@
 class Calculator {
     static getSum(a, b) {
-        let sum = a + b;
-        return sum;
+        return a + b;
     }
     static getDiff(a, b) {
-        let diff = a - b;
-        return diff;
+        return a - b;
     }
     static getDivison(a, b) {
-        let div = a / b;
-        return div;
+        return a / b;
     }
     static getProd(a, b) {
-        let prod = a * b;
-        return prod;
+        return a * b;
     }
 }
 
